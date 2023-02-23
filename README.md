@@ -1,4 +1,5 @@
-# Farmer
-- 定时启动: android localhost
+# crawler-server
 - 分发任务
-- 数据落库
+- 数据落库: sqldb
+- 后台管理
+- 数据实时检测: grafana+tsdb(influxdb)
